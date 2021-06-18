@@ -1,6 +1,5 @@
-package xyy.xy718.xyfires;
+package xy.xy718.xyfires;
 
-import com.google.inject.Inject;
 import lombok.Getter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -11,14 +10,9 @@ import org.spongepowered.api.event.Listener;
 import org.spongepowered.api.plugin.Plugin;
 import org.spongepowered.api.scheduler.Task;
 import org.spongepowered.api.text.TextTemplate;
-import xyy.xy718.xyfires.common.service.ShieldService;
-import xyy.xy718.xyfires.event.PlayerFiredEvent;
+import xy.xy718.xyfires.common.service.ShieldService;
+import xy.xy718.xyfires.event.PlayerFiredEvent;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Timer;
-import java.util.UUID;
-import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 @Plugin(

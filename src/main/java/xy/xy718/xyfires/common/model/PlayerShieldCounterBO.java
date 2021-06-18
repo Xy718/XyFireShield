@@ -1,4 +1,4 @@
-package xyy.xy718.xyfires.common.model;
+package xy.xy718.xyfires.common.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
