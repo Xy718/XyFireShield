@@ -1,4 +1,4 @@
-package xy.xy718.xyfires.event;
+package xyz.xy718.xyfires.event;
 
 import com.google.common.collect.ImmutableMap;
 import org.slf4j.Logger;
@@ -13,7 +13,7 @@ import org.spongepowered.api.event.entity.DamageEntityEvent;
 import org.spongepowered.api.event.filter.Getter;
 import org.spongepowered.api.event.filter.cause.Root;
 import org.spongepowered.api.text.Text;
-import xy.xy718.xyfires.XyFireShieldPlugin;
+import xyz.xy718.xyfires.XyFireShieldPlugin;
 
 import java.util.*;
 

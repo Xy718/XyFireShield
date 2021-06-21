@@ -1,10 +1,10 @@
-package xy.xy718.xyfires.common.service;
+package xyz.xy718.xyfires.common.service;
 
 import org.slf4j.Logger;
 import org.spongepowered.api.Sponge;
 import org.spongepowered.api.text.Text;
-import xy.xy718.xyfires.XyFireShieldPlugin;
-import xy.xy718.xyfires.event.PlayerFiredEvent;
+import xyz.xy718.xyfires.XyFireShieldPlugin;
+import xyz.xy718.xyfires.event.PlayerFiredEvent;
 
 import java.util.Map;
 import java.util.UUID;

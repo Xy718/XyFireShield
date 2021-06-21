@@ -1,4 +1,4 @@
-package xy.xy718.xyfires;
+package xyz.xy718.xyfires;
 
 import lombok.Getter;
 import org.slf4j.Logger;
@@ -10,8 +10,8 @@ import org.spongepowered.api.event.game.state.GameStartedServerEvent;
 import org.spongepowered.api.plugin.Plugin;
 import org.spongepowered.api.scheduler.Task;
 import org.spongepowered.api.text.TextTemplate;
-import xy.xy718.xyfires.common.service.ShieldService;
-import xy.xy718.xyfires.event.PlayerFiredEvent;
+import xyz.xy718.xyfires.common.service.ShieldService;
+import xyz.xy718.xyfires.event.PlayerFiredEvent;
 
 import java.util.concurrent.TimeUnit;
 
